@@ -1,0 +1,23 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/asanotomoaki/Desktop/Project/Nuxt-blog/pages/blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_0a15b224"
+  },
+  {
+    "name": "portfolio",
+    "path": "/portfolio",
+    "component": "/Users/asanotomoaki/Desktop/Project/Nuxt-blog/pages/portfolio.vue",
+    "chunkName": "pages/portfolio",
+    "_name": "_15da5eac"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/asanotomoaki/Desktop/Project/Nuxt-blog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_08161994"
+  }
+]
