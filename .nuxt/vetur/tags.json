@@ -2,10 +2,13 @@
   "Card": {
     "description": "Auto imported from components/Card.vue"
   },
-  "Content": {
-    "description": "Auto imported from components/Content.vue"
-  },
   "Header": {
     "description": "Auto imported from components/Header.vue"
+  },
+  "BlogContent": {
+    "description": "Auto imported from components/blogContent.vue"
+  },
+  "SideNav": {
+    "description": "Auto imported from components/sideNav.vue"
   }
 }

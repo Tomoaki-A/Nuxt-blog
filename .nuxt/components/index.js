@@ -1,6 +1,7 @@
 export { default as Card } from '../../components/Card.vue'
-export { default as Content } from '../../components/Content.vue'
 export { default as Header } from '../../components/Header.vue'
+export { default as BlogContent } from '../../components/blogContent.vue'
+export { default as SideNav } from '../../components/sideNav.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

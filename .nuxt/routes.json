@@ -1,23 +1,30 @@
 [
   {
-    "name": "blog",
-    "path": "/blog",
-    "component": "/Users/asanotomoaki/Desktop/Project/Nuxt-blog/pages/blog.vue",
-    "chunkName": "pages/blog",
-    "_name": "_0a15b224"
+    "name": "grossery",
+    "path": "/grossery",
+    "component": "/Users/asano/Desktop/Private/Nuxt-blog/pages/grossery.vue",
+    "chunkName": "pages/grossery",
+    "_name": "_21930cac"
   },
   {
     "name": "portfolio",
     "path": "/portfolio",
-    "component": "/Users/asanotomoaki/Desktop/Project/Nuxt-blog/pages/portfolio.vue",
+    "component": "/Users/asano/Desktop/Private/Nuxt-blog/pages/portfolio.vue",
     "chunkName": "pages/portfolio",
-    "_name": "_15da5eac"
+    "_name": "_415ecff4"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/asanotomoaki/Desktop/Project/Nuxt-blog/pages/index.vue",
+    "component": "/Users/asano/Desktop/Private/Nuxt-blog/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_08161994"
+    "_name": "_55b5487e"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "/Users/asano/Desktop/Private/Nuxt-blog/pages/_slug/index.vue",
+    "chunkName": "pages/_slug/index",
+    "_name": "_4a826d39"
   }
 ]

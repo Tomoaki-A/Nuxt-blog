@@ -7,8 +7,8 @@
     <div class="sub-title">
       {{ updatedAt }}
     </div>
-    <div class="content">
-      {{ body }}
+    <div v-html="body" class="content">
+      
     </div>
   </div>
 </template>
